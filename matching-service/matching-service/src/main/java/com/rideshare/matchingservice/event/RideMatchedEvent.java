@@ -19,8 +19,4 @@ public class RideMatchedEvent {
     private double driverLatitude;
     private double driverLongitude;
     private double distanceToPickupKm;
-
-    private double dropLatitude;
-    private double dropLongitude;
-    private String dropAddress;
 }
